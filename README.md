@@ -3,3 +3,5 @@
 
 Lecture : Parallel and distributed systems<br>
 Professor : Kang dongki(CS administration)
+Environment : Colab(GPU:Tesla100)
+
